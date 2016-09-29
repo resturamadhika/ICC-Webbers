@@ -1,0 +1,36 @@
+9/8/2016 11:59:39 AM : --Start--
+9/8/2016 11:59:39 AM : UserName/Date : 1002201403/9/8/2016 11:59:39 AM
+9/8/2016 11:59:39 AM : Ticket Number: phone-300-00000742
+9/8/2016 11:59:39 AM : 9/8/2016 11:59:39 AM-Error Select tTicket Get Status: Object reference not set to an instance of an object.
+9/8/2016 11:59:39 AM : Status Ticket: -9/8/2016 11:59:39 AM
+9/8/2016 11:59:39 AM : Ticket berhasil di dispatch untuk pertama kalinya9/8/2016 11:59:39 AM
+9/8/2016 11:59:39 AM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/8/2016 11:59:39 AM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/8/2016 11:59:39 AM : --end--
+9/8/2016 12:04:27 PM : --Start--
+9/8/2016 12:04:29 PM : UserName/Date : 1002201403/9/8/2016 12:04:28 PM
+9/8/2016 12:04:30 PM : Ticket Number: phone-300-00000744
+9/8/2016 12:04:34 PM : 9/8/2016 12:04:33 PM-Error Select tTicket Get Status: Object reference not set to an instance of an object.
+9/8/2016 12:04:37 PM : Status Ticket: -9/8/2016 12:04:35 PM
+9/8/2016 12:04:45 PM : Ticket berhasil di dispatch untuk pertama kalinya9/8/2016 12:04:43 PM
+9/8/2016 12:05:01 PM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/8/2016 12:05:18 PM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/8/2016 12:05:18 PM : --end--
+9/8/2016 12:06:34 PM : --Start--
+9/8/2016 12:06:34 PM : UserName/Date : 1002201403/9/8/2016 12:06:34 PM
+9/8/2016 12:06:34 PM : Ticket Number: phone-500-00000745
+9/8/2016 12:06:34 PM : 9/8/2016 12:06:34 PM-Error Select tTicket Get Status: Object reference not set to an instance of an object.
+9/8/2016 12:06:34 PM : Status Ticket: -9/8/2016 12:06:34 PM
+9/8/2016 12:06:34 PM : Ticket berhasil di dispatch untuk pertama kalinya9/8/2016 12:06:34 PM
+9/8/2016 12:06:34 PM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/8/2016 12:06:34 PM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/8/2016 12:06:34 PM : --end--
+9/8/2016 12:07:28 PM : --Start--
+9/8/2016 12:07:28 PM : UserName/Date : 1002201403/9/8/2016 12:07:28 PM
+9/8/2016 12:07:28 PM : Ticket Number: phone-500-00000746
+9/8/2016 12:07:28 PM : 9/8/2016 12:07:28 PM-Error Select tTicket Get Status: Object reference not set to an instance of an object.
+9/8/2016 12:07:28 PM : Status Ticket: -9/8/2016 12:07:28 PM
+9/8/2016 12:07:28 PM : Ticket berhasil di dispatch untuk pertama kalinya9/8/2016 12:07:28 PM
+9/8/2016 12:07:28 PM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/8/2016 12:07:28 PM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/8/2016 12:07:28 PM : --end--

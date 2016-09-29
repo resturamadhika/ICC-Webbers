@@ -1,0 +1,49 @@
+9/14/2016 9:28:26 AM : --Start--
+9/14/2016 9:28:26 AM : UserName/Date : 1002201403/9/14/2016 9:28:26 AM
+9/14/2016 9:28:26 AM : Ticket Number: phone-300-00000765
+9/14/2016 9:28:26 AM : 9/14/2016 9:28:26 AM-Error Select tTicket Get Status: Invalid attempt to call MetaData when reader is closed.
+9/14/2016 9:28:26 AM : Status Ticket: -9/14/2016 9:28:26 AM
+9/14/2016 9:28:26 AM : Ticket berhasil di dispatch untuk pertama kalinya9/14/2016 9:28:26 AM
+9/14/2016 9:28:26 AM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/14/2016 9:28:26 AM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/14/2016 9:28:26 AM : --end--
+9/14/2016 9:50:00 AM : --Start--
+9/14/2016 9:50:00 AM : UserName/Date : 1002201403/9/14/2016 9:50:00 AM
+9/14/2016 9:50:00 AM : Ticket Number: phone-300-00000766
+9/14/2016 9:50:00 AM : 9/14/2016 9:50:00 AM-Error Select tTicket Get Status: Invalid attempt to call MetaData when reader is closed.
+9/14/2016 9:50:00 AM : Status Ticket: -9/14/2016 9:50:00 AM
+9/14/2016 9:50:00 AM : Ticket berhasil di dispatch untuk pertama kalinya9/14/2016 9:50:00 AM
+9/14/2016 9:50:00 AM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/14/2016 9:50:00 AM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/14/2016 9:50:00 AM : --end--
+9/14/2016 9:51:06 AM : --Start--
+9/14/2016 9:51:07 AM : UserName/Date : 1002201406/9/14/2016 9:51:06 AM
+9/14/2016 9:51:07 AM : Ticket Number: phone-300-00000766
+9/14/2016 9:51:07 AM : 9/14/2016 9:51:07 AM-Error Select tTicket Get Status: Invalid attempt to call MetaData when reader is closed.
+9/14/2016 9:51:07 AM : Status Ticket: -9/14/2016 9:51:07 AM
+9/14/2016 9:51:07 AM : Ticket sudah tersedia di table dispatch
+9/14/2016 9:51:07 AM : User Login : Layer 2 (1002201406)
+9/14/2016 9:51:07 AM : Ticket pertama kali didispatch kelayer 39/14/2016 9:51:07 AM
+9/14/2016 9:51:07 AM : Ticket berada pada layer 2 dan akan di Dispatch ke layer 3
+9/14/2016 9:51:07 AM : Ticket berhasil di dispatch/reassign dari2 menuju :3
+9/14/2016 9:51:07 AM : --end--
+9/14/2016 1:09:47 PM : --Start--
+9/14/2016 1:09:47 PM : UserName/Date : 1002201403/9/14/2016 1:09:47 PM
+9/14/2016 1:09:47 PM : Ticket Number: phone-300-00000768
+9/14/2016 1:09:47 PM : 9/14/2016 1:09:47 PM-Error Select tTicket Get Status: Invalid attempt to call MetaData when reader is closed.
+9/14/2016 1:09:47 PM : Status Ticket: -9/14/2016 1:09:47 PM
+9/14/2016 1:09:47 PM : Ticket berhasil di dispatch untuk pertama kalinya9/14/2016 1:09:47 PM
+9/14/2016 1:09:47 PM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/14/2016 1:09:47 PM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/14/2016 1:09:47 PM : --end--
+9/14/2016 1:10:56 PM : --Start--
+9/14/2016 1:10:56 PM : UserName/Date : 1002201406/9/14/2016 1:10:56 PM
+9/14/2016 1:10:56 PM : Ticket Number: phone-300-00000768
+9/14/2016 1:10:56 PM : 9/14/2016 1:10:56 PM-Error Select tTicket Get Status: Invalid attempt to call MetaData when reader is closed.
+9/14/2016 1:10:56 PM : Status Ticket: -9/14/2016 1:10:56 PM
+9/14/2016 1:10:56 PM : Ticket sudah tersedia di table dispatch
+9/14/2016 1:10:56 PM : User Login : Layer 2 (1002201406)
+9/14/2016 1:10:56 PM : Ticket pertama kali didispatch kelayer 39/14/2016 1:10:56 PM
+9/14/2016 1:10:56 PM : Ticket berada pada layer 2 dan akan di Dispatch ke layer 3
+9/14/2016 1:10:56 PM : Ticket berhasil di dispatch/reassign dari2 menuju :3
+9/14/2016 1:10:56 PM : --end--

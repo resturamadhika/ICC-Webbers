@@ -1,0 +1,42 @@
+9/13/2016 10:52:03 AM : --START--
+9/13/2016 10:52:03 AM : --9/13/2016 10:52:03 AM--
+9/13/2016 10:52:03 AM : TicketNumber phone-300-00000747Sudah Ada di tCloseTicket
+9/13/2016 10:58:45 AM : --START--
+9/13/2016 10:58:45 AM : --9/13/2016 10:58:45 AM--
+9/13/2016 10:58:45 AM : TicketNumber phone-400-00000748Sudah Ada di tCloseTicket
+9/13/2016 11:06:05 AM : --START--
+9/13/2016 11:06:05 AM : --9/13/2016 11:06:05 AM--
+9/13/2016 11:06:05 AM : TicketNumber phone-300-00000749Sudah Ada di tCloseTicket
+9/13/2016 11:39:57 AM : --START--
+9/13/2016 11:39:57 AM : --9/13/2016 11:39:57 AM--
+9/13/2016 11:39:57 AM : TicketNumber phone-300-00000753Sudah Ada di tCloseTicket
+9/13/2016 12:02:28 PM : --START--
+9/13/2016 12:02:28 PM : --9/13/2016 12:02:28 PM--
+9/13/2016 12:02:28 PM : TicketNumber phone-300-00000755Sudah Ada di tCloseTicket
+9/13/2016 12:30:20 PM : --START--
+9/13/2016 12:30:20 PM : --9/13/2016 12:30:20 PM--
+9/13/2016 12:30:20 PM : TicketNumber phone-300-00000756Sudah Ada di tCloseTicket
+9/13/2016 12:36:01 PM : --START--
+9/13/2016 12:36:01 PM : --9/13/2016 12:36:01 PM--
+9/13/2016 12:36:01 PM : TicketNumber phone-300-00000757Sudah Ada di tCloseTicket
+9/13/2016 12:38:14 PM : --START--
+9/13/2016 12:38:14 PM : --9/13/2016 12:38:14 PM--
+9/13/2016 12:38:14 PM : TicketNumber phone-300-00000758Sudah Ada di tCloseTicket
+9/13/2016 12:52:55 PM : --START--
+9/13/2016 12:52:55 PM : --9/13/2016 12:52:55 PM--
+9/13/2016 12:52:55 PM : TicketNumber phone-300-00000759Sudah Ada di tCloseTicket
+9/13/2016 1:04:20 PM : --START--
+9/13/2016 1:04:20 PM : --9/13/2016 1:04:20 PM--
+9/13/2016 1:04:20 PM : TicketNumber phone-300-00000760Sudah Ada di tCloseTicket
+9/13/2016 3:48:35 PM : --START--
+9/13/2016 3:48:35 PM : --9/13/2016 3:48:35 PM--
+9/13/2016 3:48:35 PM : TicketNumber phone-300-00000761Sudah Ada di tCloseTicket
+9/13/2016 3:56:30 PM : --START--
+9/13/2016 3:56:30 PM : --9/13/2016 3:56:30 PM--
+9/13/2016 3:56:30 PM : TicketNumber phone-300-00000762Sudah Ada di tCloseTicket
+9/13/2016 4:00:46 PM : --START--
+9/13/2016 4:00:46 PM : --9/13/2016 4:00:46 PM--
+9/13/2016 4:00:46 PM : TicketNumber phone-300-00000763Sudah Ada di tCloseTicket
+9/13/2016 4:10:03 PM : --START--
+9/13/2016 4:10:03 PM : --9/13/2016 4:10:03 PM--
+9/13/2016 4:10:03 PM : TicketNumber phone-400-00000764Sudah Ada di tCloseTicket

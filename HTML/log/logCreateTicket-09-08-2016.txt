@@ -1,0 +1,24 @@
+9/8/2016 11:22:14 AM : --START--
+9/8/2016 11:22:14 AM : --9/8/2016 11:22:14 AM--
+9/8/2016 11:22:14 AM : TicketNumber phone-300-00000739Sudah Ada di tCloseTicket
+9/8/2016 11:29:26 AM : --START--
+9/8/2016 11:29:26 AM : --9/8/2016 11:29:26 AM--
+9/8/2016 11:29:26 AM : TicketNumber phone-400-00000740Sudah Ada di tCloseTicket
+9/8/2016 11:33:49 AM : --START--
+9/8/2016 11:33:49 AM : --9/8/2016 11:33:49 AM--
+9/8/2016 11:33:49 AM : TicketNumber phone-400-00000741Sudah Ada di tCloseTicket
+9/8/2016 11:59:25 AM : --START--
+9/8/2016 11:59:25 AM : --9/8/2016 11:59:25 AM--
+9/8/2016 11:59:25 AM : TicketNumber phone-300-00000742Sudah Ada di tCloseTicket
+9/8/2016 12:02:20 PM : --START--
+9/8/2016 12:02:20 PM : --9/8/2016 12:02:20 PM--
+9/8/2016 12:02:20 PM : TicketNumber phone-400-00000743Sudah Ada di tCloseTicket
+9/8/2016 12:04:11 PM : --START--
+9/8/2016 12:04:11 PM : --9/8/2016 12:04:11 PM--
+9/8/2016 12:04:11 PM : TicketNumber phone-300-00000744Sudah Ada di tCloseTicket
+9/8/2016 12:06:25 PM : --START--
+9/8/2016 12:06:25 PM : --9/8/2016 12:06:25 PM--
+9/8/2016 12:06:25 PM : TicketNumber phone-500-00000745Sudah Ada di tCloseTicket
+9/8/2016 12:07:15 PM : --START--
+9/8/2016 12:07:15 PM : --9/8/2016 12:07:15 PM--
+9/8/2016 12:07:15 PM : TicketNumber phone-500-00000746Sudah Ada di tCloseTicket

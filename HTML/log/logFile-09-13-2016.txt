@@ -1,0 +1,9 @@
+9/13/2016 4:10:14 PM : --Start--
+9/13/2016 4:10:14 PM : UserName/Date : 1002201412/9/13/2016 4:10:14 PM
+9/13/2016 4:10:14 PM : Ticket Number: phone-400-00000764
+9/13/2016 4:10:14 PM : 9/13/2016 4:10:14 PM-Error Select tTicket Get Status: Invalid attempt to call MetaData when reader is closed.
+9/13/2016 4:10:14 PM : Status Ticket: -9/13/2016 4:10:14 PM
+9/13/2016 4:10:14 PM : Ticket berhasil di dispatch untuk pertama kalinya9/13/2016 4:10:14 PM
+9/13/2016 4:10:14 PM : Ticket berada pada layer 1 dan akan di Dispatch ke layer 2
+9/13/2016 4:10:14 PM : Ticket berhasil di dispatch/reassign dari1 menuju :2
+9/13/2016 4:10:14 PM : --end--
