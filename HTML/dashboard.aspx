@@ -99,7 +99,7 @@
                     </a>
                     <a href="#ModalFax" class="shortcut-link" data-toggle="modal">
                         <span class="shortcut-icon">
-                            <i class="fa fa-globe"></i>
+                            <i class="fa fa-fax"></i>
                             <span class="shortcut-alert">7
                             </span>
                         </span>
