@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevExpress.Snap.v13.2</name>
+    </assembly>
+    <members>
+        <member name="T:DevExpress.Snap.SnapControlOptions">
+
+            <summary>
+                <para>Stores settings specific for the <see cref="T:DevExpress.Snap.SnapControl"/>. 
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControlOptions.#ctor(DevExpress.XtraRichEdit.Internal.InnerRichEditDocumentServer)">
+            <summary>
+                <para>Initializes a new instance of the SnapControlOptions class with the specified settings.
+</para>
+            </summary>
+            <param name="documentServer">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControlOptions.Fields">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value> [To be supplied] </value>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControlOptions.MailMerge">
+            <summary>
+                <para>For internal use.
+</para>
+            </summary>
+            <value>An object related to the mail merge options of a <see cref="T:DevExpress.XtraRichEdit.RichEditControl"/>.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControlOptions.SnapMailMergeVisualOptions">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value>A <see cref="T:DevExpress.Snap.Core.API.SnapMailMergeVisualOptions"/> object.
+</value>
+
+
+        </member>
+        <member name="T:DevExpress.Snap.SnapControl">
+
+            <summary>
+                <para>A control that provides Snap functionality to your application.
+
+
+</para>
+            </summary>
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.#ctor">
+            <summary>
+                <para>Initializes a new instance of the <see cref="T:DevExpress.Snap.SnapControl"/> class with default settings.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.About">
+            <summary>
+                <para>For internal use. Invokes the <b>About</b> dialog window.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.AfterDataSourceImport">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.AsynchronousOperationFinished">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.AsynchronousOperationStarted">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.BeforeDataSourceExport">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.CreateDocumentServer">
+            <summary>
+                <para>Gets the document server instance.
+</para>
+            </summary>
+            <returns>An object implementing the <see cref="T:DevExpress.XtraRichEdit.IRichEditDocumentServer"/> interface.
+</returns>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.CreateSnapMailMergeOptions">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <returns> [To be supplied] </returns>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControl.DataSource">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value>A <see cref="T:System.Object"/> value, specifying the document data source.
+</value>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.DataSourceChanged">
+            <summary>
+                <para>Fires after making changes to any of the connected data source.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControl.DataSources">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <value>A <see cref="T:DevExpress.Snap.Core.API.DataSourceInfoCollection"/> object.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControl.Document">
+            <summary>
+                <para>Provides access to the specified document.
+</para>
+            </summary>
+            <value>A <see cref="T:DevExpress.Snap.Core.API.SnapDocument"/> object.
+</value>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControl.IsDesignMode">
+            <summary>
+                <para>For internal use.
+</para>
+            </summary>
+            <value>A Boolean value.
+</value>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.MailMergeExportFormShowing">
+            <summary>
+                <para>Fires before showing the <b>Export Range</b> form.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControl.Options">
+            <summary>
+                <para>Provides access to the options of a <see cref="T:DevExpress.Snap.SnapControl"/>.
+</para>
+            </summary>
+            <value>A <see cref="T:DevExpress.Snap.SnapControlOptions"/> object.
+</value>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.ReportStructureEditorFormShowing">
+            <summary>
+                <para>Fires before showing the <b>Report Structure</b> editor.
+</para>
+            </summary>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(System.IO.Stream,DevExpress.XtraRichEdit.DocumentFormat)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="stream">
+		 [To be supplied] 
+            </param>
+            <param name="format">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(DevExpress.Snap.Core.API.SnapMailMergeExportOptions,System.IO.Stream,DevExpress.XtraRichEdit.DocumentFormat)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="options">
+		 [To be supplied] 
+            </param>
+            <param name="stream">
+		 [To be supplied] 
+            </param>
+            <param name="format">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(DevExpress.Snap.Core.API.SnapMailMergeExportOptions,System.String,DevExpress.XtraRichEdit.DocumentFormat)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="options">
+		 [To be supplied] 
+            </param>
+            <param name="fileName">
+		 [To be supplied] 
+            </param>
+            <param name="format">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(System.String,DevExpress.XtraRichEdit.DocumentFormat)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="fileName">
+		 [To be supplied] 
+            </param>
+            <param name="format">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(DevExpress.Snap.Core.API.SnapMailMergeExportOptions,DevExpress.Snap.Core.Native.ISnapDocumentServer)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="options">
+		 [To be supplied] 
+            </param>
+            <param name="targetDocumentServer">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(DevExpress.Snap.Core.Native.ISnapDocumentServer)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="documentServer">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(DevExpress.Snap.Core.API.SnapMailMergeExportOptions,DevExpress.Snap.Core.API.SnapDocument)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="options">
+		 [To be supplied] 
+            </param>
+            <param name="targetDocument">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="M:DevExpress.Snap.SnapControl.SnapMailMerge(DevExpress.Snap.Core.API.SnapDocument)">
+            <summary>
+                <para> [To be supplied] </para>
+            </summary>
+            <param name="document">
+		 [To be supplied] 
+            </param>
+
+
+        </member>
+        <member name="P:DevExpress.Snap.SnapControl.SnxBytes">
+            <summary>
+                <para>Specifies the report content as an array of bytes in the <b>.snx</b> format. 
+</para>
+            </summary>
+            <value>An array of <see cref="T:System.Byte"/> values, containing data in the <b>.snx</b> format.
+</value>
+
+
+        </member>
+        <member name="E:DevExpress.Snap.SnapControl.TableCellStyleFormShowing">
+            <summary>
+                <para>Fires before showing the <b>Table Cell Style</b> form.
+</para>
+            </summary>
+
+
+        </member>
+    </members>
+</doc>
