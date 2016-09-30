@@ -34,3 +34,16 @@ D:\ICC\Helpdesk_Application\bin\Helpdesk_Application.xml
 D:\ICC\Helpdesk_Application\bin\NLog.dll
 D:\ICC\Helpdesk_Application\bin\NLog.Targets.Gelf.dll
 D:\ICC\Helpdesk_Application\bin\NLog.xml
+D:\Revosetori\ICC\Helpdesk_Application\bin\Helpdesk_Application.dll
+D:\Revosetori\ICC\Helpdesk_Application\bin\Helpdesk_Application.pdb
+D:\Revosetori\ICC\Helpdesk_Application\bin\Helpdesk_Application.xml
+D:\Revosetori\ICC\Helpdesk_Application\bin\NLog.dll
+D:\Revosetori\ICC\Helpdesk_Application\bin\NLog.Targets.Gelf.dll
+D:\Revosetori\ICC\Helpdesk_Application\bin\NLog.xml
+D:\Revosetori\ICC\Helpdesk_Application\obj\Debug\Helpdesk_Application.vbprojResolveAssemblyReference.cache
+D:\Revosetori\ICC\Helpdesk_Application\obj\Debug\Helpdesk_Application.Resources.resources
+D:\Revosetori\ICC\Helpdesk_Application\obj\Debug\Helpdesk_Application.vbproj.GenerateResource.Cache
+D:\Revosetori\ICC\Helpdesk_Application\obj\Debug\Helpdesk_Application.dll.licenses
+D:\Revosetori\ICC\Helpdesk_Application\obj\Debug\Helpdesk_Application.dll
+D:\Revosetori\ICC\Helpdesk_Application\obj\Debug\Helpdesk_Application.xml
+D:\Revosetori\ICC\Helpdesk_Application\obj\Debug\Helpdesk_Application.pdb

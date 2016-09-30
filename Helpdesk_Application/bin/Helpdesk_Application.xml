@@ -6,393 +6,73 @@ Helpdesk_Application
 </name>
 </assembly>
 <members>
-<member name="F:Helpdesk_Application.todolist_sosmed.ltr_email">
+<member name="F:Helpdesk_Application.calltype_tre.div_calltype_tre">
 	<summary>
-ltr_email control.
+div_calltype_tre control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Manage.successMessage">
+</member><member name="F:Helpdesk_Application.calltype_tre.ASPxGridView1">
 	<summary>
-successMessage control.
+ASPxGridView1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Manage.setPassword">
+</member><member name="F:Helpdesk_Application.calltype_tre.DsCategory">
 	<summary>
-setPassword control.
+DsCategory control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Manage.password">
+</member><member name="F:Helpdesk_Application.calltype_tre.dsmCategory">
 	<summary>
-password control.
+dsmCategory control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Manage.confirmPassword">
+</member><member name="F:Helpdesk_Application.calltype_tre.dsmSubCategoryLv1">
 	<summary>
-confirmPassword control.
+dsmSubCategoryLv1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Manage.changePassword">
+</member><member name="F:Helpdesk_Application.calltype_tre.dsmSubCategoryLv2">
 	<summary>
-changePassword control.
+dsmSubCategoryLv2 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.helpdesk.FeaturedContent">
+</member><member name="F:Helpdesk_Application.karyawan.div_karyawan">
 	<summary>
-FeaturedContent control.
+div_karyawan control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.helpdesk.MainContent">
+</member><member name="F:Helpdesk_Application.karyawan.Grid">
 	<summary>
-MainContent control.
+Grid control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.todolist.div_todolist">
+</member><member name="F:Helpdesk_Application.karyawan.SqlDataSource1">
 	<summary>
-div_todolist control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.todolist.div_view">
-	<summary>
-div_view control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.todolist.ltr_todolist">
-	<summary>
-ltr_todolist control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.form1">
-	<summary>
-form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.lbl_jumlah_facebook">
-	<summary>
-lbl_jumlah_facebook control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.ltr_email">
-	<summary>
-ltr_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.ww">
-	<summary>
-ww control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.Btn_upload">
-	<summary>
-Btn_upload control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.lblcc">
-	<summary>
-lblcc control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.txt_account_email">
-	<summary>
-txt_account_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.xx.TextBox1">
-	<summary>
-TextBox1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.sql_app">
-	<summary>
-sql_app control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.sql_3">
-	<summary>
-sql_3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.div_customer">
-	<summary>
-div_customer control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.txt_company_name">
-	<summary>
-txt_company_name control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.txt_email">
-	<summary>
-txt_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.txt_phone">
-	<summary>
-txt_phone control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.txt_address">
-	<summary>
-txt_address control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.hr_satu">
-	<summary>
-hr_satu control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.div_setting">
-	<summary>
-div_setting control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_ticket">
-	<summary>
-chk_ticket control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_email">
-	<summary>
-chk_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_twitter">
-	<summary>
-chk_twitter control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_facebook">
-	<summary>
-chk_facebook control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_fax">
-	<summary>
-chk_fax control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_chat">
-	<summary>
-chk_chat control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_sms">
-	<summary>
-chk_sms control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_telegram">
-	<summary>
-chk_telegram control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.chk_instagram">
-	<summary>
-chk_instagram control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.hr_dua">
-	<summary>
-hr_dua control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.div_license">
-	<summary>
-div_license control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.txt_license">
-	<summary>
-txt_license control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.cmb_status">
-	<summary>
-cmb_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.hr_tiga">
-	<summary>
-hr_tiga control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.div_generate">
-	<summary>
-div_generate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.gv_app">
-	<summary>
-gv_app control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.sql_user">
-	<summary>
-sql_user control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.btn_simpan">
-	<summary>
-btn_simpan control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.btn_back">
-	<summary>
-btn_back control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.btn_generate">
-	<summary>
-btn_generate control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.user.btn_finis">
-	<summary>
-btn_finis control.
+SqlDataSource1 control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -409,126 +89,6 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:Helpdesk_Application.inbox_twitter.sql_inbox_twitter">
 	<summary>
 sql_inbox_twitter control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.todolist_ticket.SourceCRO">
-	<summary>
-SourceCRO control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.todolist_ticket.grid">
-	<summary>
-grid control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.todolist_ticket.SourceTicket">
-	<summary>
-SourceTicket control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.todolist_ticket.SqlDataSource1">
-	<summary>
-SqlDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.login1.txt_username">
-	<summary>
-txt_username control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.login1.txt_password">
-	<summary>
-txt_password control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.login1.btn_login">
-	<summary>
-btn_login control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.div_calltype_one">
-	<summary>
-div_calltype_one control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.div_ticket">
-	<summary>
-div_ticket control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.ASPxGridView1">
-	<summary>
-ASPxGridView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.sql_add_user">
-	<summary>
-sql_add_user control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.sql_user_sbg">
-	<summary>
-sql_user_sbg control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.sql_unit_kerja">
-	<summary>
-sql_unit_kerja control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.sql_nik">
-	<summary>
-sql_nik control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.add_user.sql_level_user">
-	<summary>
-sql_level_user control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -574,47 +134,215 @@ sql_source control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_two.div_calltype_two">
+</member><member name="F:Helpdesk_Application.status.div_status">
 	<summary>
-div_calltype_two control.
+div_status control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_two.ASPxGridView1">
+</member><member name="F:Helpdesk_Application.status.gv_status">
 	<summary>
-ASPxGridView1 control.
+gv_status control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_two.dsSubject">
+</member><member name="F:Helpdesk_Application.status.sql_status">
 	<summary>
-dsSubject control.
+sql_status control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_two.dsmCategory">
+</member><member name="F:Helpdesk_Application.Ticket.FeaturedContent">
 	<summary>
-dsmCategory control.
+FeaturedContent control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_two.dsmSubCategoryLv1">
+</member><member name="F:Helpdesk_Application.Ticket.ScriptManager1">
 	<summary>
-dsmSubCategoryLv1 control.
+ScriptManager1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.customer.div_menu_customer">
+</member><member name="F:Helpdesk_Application.Ticket.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.Timer1">
+	<summary>
+Timer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.lbl_count_dispatch">
+	<summary>
+lbl_count_dispatch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.lbl_keterangan">
+	<summary>
+lbl_keterangan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.ltr_ticket_dispatch">
+	<summary>
+ltr_ticket_dispatch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.lbl_user_login">
+	<summary>
+lbl_user_login control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.lbl_user_login_detail">
+	<summary>
+lbl_user_login_detail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.lbl_user_login_detail_nama">
+	<summary>
+lbl_user_login_detail_nama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_dashboard">
+	<summary>
+div_menu_dashboard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_master_table">
+	<summary>
+div_menu_master_table control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_Transaction_Type">
+	<summary>
+div_master_Transaction_Type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_calltypeone">
+	<summary>
+div_master_calltypeone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_calltypetwo">
+	<summary>
+div_master_calltypetwo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_calltypetre">
+	<summary>
+div_master_calltypetre control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_sourcetype">
+	<summary>
+div_master_sourcetype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_grouptype">
+	<summary>
+div_master_grouptype control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_status">
+	<summary>
+div_master_status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_karyawan">
+	<summary>
+div_master_karyawan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_email_alert">
+	<summary>
+div_master_email_alert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_master_email_address">
+	<summary>
+div_master_email_address control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_customer">
 	<summary>
 div_menu_customer control.
 </summary>
@@ -622,25 +350,209 @@ div_menu_customer control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.customer.gv_customer">
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_todolist">
 	<summary>
-gv_customer control.
+div_menu_todolist control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.customer.sql_customer">
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_channel">
 	<summary>
-sql_customer control.
+div_menu_channel control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.customer.sql_region">
+</member><member name="F:Helpdesk_Application.Ticket.div_channel_twitter">
 	<summary>
-sql_region control.
+div_channel_twitter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_twitter_history">
+	<summary>
+div_twitter_history control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_twitter_keyword_setting">
+	<summary>
+div_twitter_keyword_setting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_channel_facebook">
+	<summary>
+div_channel_facebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_facebook_history">
+	<summary>
+div_facebook_history control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_facebook_keyword_setting">
+	<summary>
+div_facebook_keyword_setting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_channel_email">
+	<summary>
+div_channel_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_channel_sms">
+	<summary>
+div_channel_sms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_channel_fax">
+	<summary>
+div_channel_fax control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_channel_chat">
+	<summary>
+div_channel_chat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_ticket">
+	<summary>
+div_menu_ticket control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_ticket_create">
+	<summary>
+div_ticket_create control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_ticket_todolist">
+	<summary>
+div_ticket_todolist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_ticket_assign">
+	<summary>
+div_ticket_assign control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_ticket_history">
+	<summary>
+div_ticket_history control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_Management_user">
+	<summary>
+div_menu_Management_user control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_user_add">
+	<summary>
+div_user_add control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_user_setting">
+	<summary>
+div_user_setting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_report">
+	<summary>
+div_menu_report control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_report_satu">
+	<summary>
+div_report_satu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_report_dua">
+	<summary>
+div_report_dua control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_grafik">
+	<summary>
+div_menu_grafik control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.div_menu_knowledge">
+	<summary>
+div_menu_knowledge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Ticket.MainContent">
+	<summary>
+MainContent control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -814,287 +726,182 @@ RegisterUserWizardStep control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.lbl_tgl">
+</member><member name="F:Helpdesk_Application.calltype_one.div_calltype_one">
 	<summary>
-lbl_tgl control.
+div_calltype_one control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label1">
+</member><member name="F:Helpdesk_Application.calltype_one.gv_transaction_type">
 	<summary>
-Label1 control.
+gv_transaction_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.lbl1">
+</member><member name="F:Helpdesk_Application.calltype_one.sql_calltype_one">
 	<summary>
-lbl1 control.
+sql_calltype_one control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label3">
+</member><member name="F:Helpdesk_Application.calltype_one.sql_transaction_type">
 	<summary>
-Label3 control.
+sql_transaction_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label2">
+</member><member name="F:Helpdesk_Application.helpdesk.FeaturedContent">
 	<summary>
-Label2 control.
+FeaturedContent control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label4">
+</member><member name="F:Helpdesk_Application.helpdesk.MainContent">
 	<summary>
-Label4 control.
+MainContent control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label5">
+</member><member name="F:Helpdesk_Application.todolist_ticket.SourceCRO">
 	<summary>
-Label5 control.
+SourceCRO control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label6">
+</member><member name="F:Helpdesk_Application.todolist_ticket.grid">
 	<summary>
-Label6 control.
+grid control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label7">
+</member><member name="F:Helpdesk_Application.todolist_ticket.SourceTicket">
 	<summary>
-Label7 control.
+SourceTicket control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label8">
+</member><member name="F:Helpdesk_Application.todolist_ticket.SqlDataSource1">
 	<summary>
-Label8 control.
+SqlDataSource1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label9">
+</member><member name="F:Helpdesk_Application.inbox_sms.ltr_twitter">
 	<summary>
-Label9 control.
+ltr_twitter control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label10">
+</member><member name="F:Helpdesk_Application.SiteMaster.FeaturedContent">
 	<summary>
-Label10 control.
+FeaturedContent control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label11">
+</member><member name="F:Helpdesk_Application.SiteMaster.MainContent">
 	<summary>
-Label11 control.
+MainContent control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label12">
+</member><member name="F:Helpdesk_Application.SiteMaster.lbl_open">
 	<summary>
-Label12 control.
+lbl_open control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label13">
+</member><member name="F:Helpdesk_Application.SiteMaster.lbl_close">
 	<summary>
-Label13 control.
+lbl_close control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label14">
+</member><member name="F:Helpdesk_Application.SiteMaster.lbl_pending">
 	<summary>
-Label14 control.
+lbl_pending control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label15">
+</member><member name="F:Helpdesk_Application.SiteMaster.lbl_on_progress">
 	<summary>
-Label15 control.
+lbl_on_progress control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label16">
+</member><member name="F:Helpdesk_Application.calltype_two.div_calltype_two">
 	<summary>
-Label16 control.
+div_calltype_two control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label17">
+</member><member name="F:Helpdesk_Application.calltype_two.ASPxGridView1">
 	<summary>
-Label17 control.
+ASPxGridView1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label18">
+</member><member name="F:Helpdesk_Application.calltype_two.dsSubject">
 	<summary>
-Label18 control.
+dsSubject control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label19">
+</member><member name="F:Helpdesk_Application.calltype_two.dsmCategory">
 	<summary>
-Label19 control.
+dsmCategory control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label20">
+</member><member name="F:Helpdesk_Application.calltype_two.dsmSubCategoryLv1">
 	<summary>
-Label20 control.
+dsmSubCategoryLv1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.landing.Label21">
-	<summary>
-Label21 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label22">
-	<summary>
-Label22 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label23">
-	<summary>
-Label23 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label24">
-	<summary>
-Label24 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label25">
-	<summary>
-Label25 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label26">
-	<summary>
-Label26 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label27">
-	<summary>
-Label27 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label28">
-	<summary>
-Label28 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label29">
-	<summary>
-Label29 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.landing.Label30">
-	<summary>
-Label30 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="P:Helpdesk_Application.My.MyWebExtension.Computer">
-	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:Helpdesk_Application.My.MyWebExtension.User">
-	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:Helpdesk_Application.My.MyWebExtension.Request">
-	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:Helpdesk_Application.My.MyWebExtension.Response">
-	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:Helpdesk_Application.My.MyWebExtension.Log">
-	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="T:Helpdesk_Application.My.MyWebExtension">
-	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
 </member><member name="F:Helpdesk_Application.calltype_two_lama.div_view">
 	<summary>
 div_view control.
@@ -1175,6 +982,30 @@ btn_submit control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
+</member><member name="F:Helpdesk_Application.todolist.div_todolist">
+	<summary>
+div_todolist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.todolist.div_view">
+	<summary>
+div_view control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.todolist.ltr_todolist">
+	<summary>
+ltr_todolist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
 </member><member name="F:Helpdesk_Application.AppSetting.form1">
 	<summary>
 form1 control.
@@ -1199,473 +1030,89 @@ sql_app control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.mCatID">
+</member><member name="F:Helpdesk_Application.add_user.div_calltype_one">
 	<summary>
-mCatID control.
+div_calltype_one control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.div_properties">
+</member><member name="F:Helpdesk_Application.add_user.div_ticket">
 	<summary>
-div_properties control.
+div_ticket control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.callbackPanelX">
+</member><member name="F:Helpdesk_Application.add_user.ASPxGridView1">
 	<summary>
-callbackPanelX control.
+ASPxGridView1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.PanelContent1">
+</member><member name="F:Helpdesk_Application.add_user.sql_add_user">
 	<summary>
-PanelContent1 control.
+sql_add_user control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.cmb_source_type">
+</member><member name="F:Helpdesk_Application.add_user.sql_user_sbg">
 	<summary>
-cmb_source_type control.
+sql_user_sbg control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.sql_source_type">
+</member><member name="F:Helpdesk_Application.add_user.sql_unit_kerja">
 	<summary>
-sql_source_type control.
+sql_unit_kerja control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.cmb_group_type">
+</member><member name="F:Helpdesk_Application.add_user.sql_nik">
 	<summary>
-cmb_group_type control.
+sql_nik control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.sql_group_type">
+</member><member name="F:Helpdesk_Application.add_user.sql_level_user">
 	<summary>
-sql_group_type control.
+sql_level_user control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.Category">
+</member><member name="F:Helpdesk_Application.assign.div_assign">
 	<summary>
-Category control.
+div_assign control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.CategoryHidden">
+</member><member name="F:Helpdesk_Application.assign.gv_assign">
 	<summary>
-CategoryHidden control.
+gv_assign control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.callback.SubCategoryI">
+</member><member name="F:Helpdesk_Application.assign.sql_assign">
 	<summary>
-SubCategoryI control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SubCatI">
-	<summary>
-SubCatI control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SubCategoryII">
-	<summary>
-SubCategoryII control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SubCatII">
-	<summary>
-SubCatII control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SubCategoryIII">
-	<summary>
-SubCategoryIII control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.cmb_priority">
-	<summary>
-cmb_priority control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.sql_priority">
-	<summary>
-sql_priority control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.cmb_severity">
-	<summary>
-cmb_severity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.sql_severity">
-	<summary>
-sql_severity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.cmb_status">
-	<summary>
-cmb_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.sql_status">
-	<summary>
-sql_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SourceType">
-	<summary>
-SourceType control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.GroupType">
-	<summary>
-GroupType control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SourceCategori">
-	<summary>
-SourceCategori control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SourceCategoriI">
-	<summary>
-SourceCategoriI control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SourceCategoriII">
-	<summary>
-SourceCategoriII control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.SourceCategoriIII">
-	<summary>
-SourceCategoriIII control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.DSHistoryAgent">
-	<summary>
-DSHistoryAgent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.callback.DSCustHistory">
-	<summary>
-DSCustHistory control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_sms.ltr_twitter">
-	<summary>
-ltr_twitter control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.Form1">
-	<summary>
-Form1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.lbl_nama">
-	<summary>
-lbl_nama control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.lbl_email">
-	<summary>
-lbl_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.lbl_tlp">
-	<summary>
-lbl_tlp control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_source_type">
-	<summary>
-cmb_source_type control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_source_type">
-	<summary>
-sql_source_type control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_group_type">
-	<summary>
-cmb_group_type control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_group_type">
-	<summary>
-sql_group_type control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_transaction_type">
-	<summary>
-cmb_transaction_type control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_transaction_type">
-	<summary>
-sql_transaction_type control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_brand">
-	<summary>
-cmb_brand control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_brand">
-	<summary>
-sql_brand control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_product">
-	<summary>
-cmb_product control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_product">
-	<summary>
-sql_product control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_problem">
-	<summary>
-cmb_problem control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_problem">
-	<summary>
-sql_problem control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_priority">
-	<summary>
-cmb_priority control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_priority">
-	<summary>
-sql_priority control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_severity">
-	<summary>
-cmb_severity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_severity">
-	<summary>
-sql_severity control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.cmb_status">
-	<summary>
-cmb_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.sql_status">
-	<summary>
-sql_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.lbl_agent">
-	<summary>
-lbl_agent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.lbl_nik_agent">
-	<summary>
-lbl_nik_agent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.lbl_date_create">
-	<summary>
-lbl_date_create control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.div_interaction">
-	<summary>
-div_interaction control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.ltr_interaction">
-	<summary>
-ltr_interaction control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.txt_description">
-	<summary>
-txt_description control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.main.lbl_sla">
-	<summary>
-lbl_sla control.
+sql_assign control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -1690,6 +1137,94 @@ To modify move field declaration from designer file to code-behind file.
 </member><member name="F:Helpdesk_Application.email_address.sql_email_address">
 	<summary>
 sql_email_address control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Transaction_Type.div_transaction_type">
+	<summary>
+div_transaction_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Transaction_Type.gv_transaction_type">
+	<summary>
+gv_transaction_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Transaction_Type.sql_transaction_type">
+	<summary>
+sql_transaction_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.todolist_sosmed.ltr_email">
+	<summary>
+ltr_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.customer.div_menu_customer">
+	<summary>
+div_menu_customer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.customer.gv_customer">
+	<summary>
+gv_customer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.customer.sql_customer">
+	<summary>
+sql_customer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.customer.sql_region">
+	<summary>
+sql_region control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.email_alert.div_email_alert">
+	<summary>
+div_email_alert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.email_alert.ASPxGridView1">
+	<summary>
+ASPxGridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.email_alert.DsTools">
+	<summary>
+DsTools control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -1751,25 +1286,34 @@ btn_submit control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.status.div_status">
+</member><member name="P:Helpdesk_Application.My.MyWebExtension.Computer">
 	<summary>
-div_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.status.gv_status">
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Helpdesk_Application.My.MyWebExtension.User">
 	<summary>
-gv_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.status.sql_status">
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Helpdesk_Application.My.MyWebExtension.Request">
 	<summary>
-sql_status control.
+ Returns Request object.
+ </summary>
+</member><member name="P:Helpdesk_Application.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Helpdesk_Application.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Helpdesk_Application.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Helpdesk_Application.OpenAuthProviders.providerDetails">
+	<summary>
+providerDetails control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -1815,65 +1359,73 @@ masterDataSource control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Login.RegisterHyperLink">
+</member><member name="F:Helpdesk_Application.inbox_email.btn_compose">
 	<summary>
-RegisterHyperLink control.
+btn_compose control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Login.OpenAuthLogin">
+</member><member name="F:Helpdesk_Application.inbox_email.div_table">
 	<summary>
-OpenAuthLogin control.
+div_table control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.karyawan.div_karyawan">
+</member><member name="F:Helpdesk_Application.inbox_email.gv_inbox_email">
 	<summary>
-div_karyawan control.
+gv_inbox_email control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.karyawan.Grid">
+</member><member name="F:Helpdesk_Application.inbox_email.sql_inbox_email">
 	<summary>
-Grid control.
+sql_inbox_email control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.karyawan.SqlDataSource1">
+</member><member name="F:Helpdesk_Application.inbox_email.div_compose">
 	<summary>
-SqlDataSource1 control.
+div_compose control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.sourcetype.div_sourcetype">
+</member><member name="F:Helpdesk_Application.inbox_email.txt_to">
 	<summary>
-div_sourcetype control.
+txt_to control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.sourcetype.gv_source_type">
+</member><member name="F:Helpdesk_Application.inbox_email.ASPxHtmlEditor1">
 	<summary>
-gv_source_type control.
+ASPxHtmlEditor1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.sourcetype.sql_source_type">
+</member><member name="F:Helpdesk_Application.zz.Button1">
 	<summary>
-sql_source_type control.
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.zz.TabName">
+	<summary>
+TabName control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -2543,1097 +2095,233 @@ DSCustHistory control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.email_alert.div_email_alert">
+</member><member name="F:Helpdesk_Application.callback.mCatID">
 	<summary>
-div_email_alert control.
+mCatID control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.email_alert.ASPxGridView1">
+</member><member name="F:Helpdesk_Application.callback.div_properties">
 	<summary>
-ASPxGridView1 control.
+div_properties control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.email_alert.DsTools">
+</member><member name="F:Helpdesk_Application.callback.callbackPanelX">
 	<summary>
-DsTools control.
+callbackPanelX control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Transaction_Type.div_transaction_type">
+</member><member name="F:Helpdesk_Application.callback.PanelContent1">
 	<summary>
-div_transaction_type control.
+PanelContent1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Transaction_Type.gv_transaction_type">
+</member><member name="F:Helpdesk_Application.callback.cmb_source_type">
 	<summary>
-gv_transaction_type control.
+cmb_source_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Transaction_Type.sql_transaction_type">
+</member><member name="F:Helpdesk_Application.callback.sql_source_type">
 	<summary>
-sql_transaction_type control.
+sql_source_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.inbox_todolist.lbl_jumlah_todolist">
+</member><member name="F:Helpdesk_Application.callback.cmb_group_type">
 	<summary>
-lbl_jumlah_todolist control.
+cmb_group_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.inbox_todolist.div_table">
+</member><member name="F:Helpdesk_Application.callback.sql_group_type">
 	<summary>
-div_table control.
+sql_group_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.inbox_todolist.ltr_email">
+</member><member name="F:Helpdesk_Application.callback.Category">
 	<summary>
-ltr_email control.
+Category control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.inbox_todolist.div_compose">
+</member><member name="F:Helpdesk_Application.callback.CategoryHidden">
 	<summary>
-div_compose control.
+CategoryHidden control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.inbox_todolist.txt_to">
+</member><member name="F:Helpdesk_Application.callback.SubCategoryI">
 	<summary>
-txt_to control.
+SubCategoryI control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.inbox_todolist.ASPxHtmlEditor1">
+</member><member name="F:Helpdesk_Application.callback.SubCatI">
 	<summary>
-ASPxHtmlEditor1 control.
+SubCatI control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.FeaturedContent">
+</member><member name="F:Helpdesk_Application.callback.SubCategoryII">
 	<summary>
-FeaturedContent control.
+SubCategoryII control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.ScriptManager1">
+</member><member name="F:Helpdesk_Application.callback.SubCatII">
 	<summary>
-ScriptManager1 control.
+SubCatII control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.Panel1">
+</member><member name="F:Helpdesk_Application.callback.SubCategoryIII">
 	<summary>
-Panel1 control.
+SubCategoryIII control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.UpdatePanel1">
+</member><member name="F:Helpdesk_Application.callback.cmb_priority">
 	<summary>
-UpdatePanel1 control.
+cmb_priority control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.Timer1">
+</member><member name="F:Helpdesk_Application.callback.sql_priority">
 	<summary>
-Timer1 control.
+sql_priority control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.lbl_count_dispatch">
+</member><member name="F:Helpdesk_Application.callback.cmb_severity">
 	<summary>
-lbl_count_dispatch control.
+cmb_severity control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.lbl_keterangan">
+</member><member name="F:Helpdesk_Application.callback.sql_severity">
 	<summary>
-lbl_keterangan control.
+sql_severity control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.ltr_ticket_dispatch">
+</member><member name="F:Helpdesk_Application.callback.cmb_status">
 	<summary>
-ltr_ticket_dispatch control.
+cmb_status control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.lbl_user_login">
+</member><member name="F:Helpdesk_Application.callback.sql_status">
 	<summary>
-lbl_user_login control.
+sql_status control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.lbl_user_login_detail">
+</member><member name="F:Helpdesk_Application.callback.SourceType">
 	<summary>
-lbl_user_login_detail control.
+SourceType control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.lbl_user_login_detail_nama">
+</member><member name="F:Helpdesk_Application.callback.GroupType">
 	<summary>
-lbl_user_login_detail_nama control.
+GroupType control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_dashboard">
+</member><member name="F:Helpdesk_Application.callback.SourceCategori">
 	<summary>
-div_menu_dashboard control.
+SourceCategori control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_master_table">
+</member><member name="F:Helpdesk_Application.callback.SourceCategoriI">
 	<summary>
-div_menu_master_table control.
+SourceCategoriI control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_Transaction_Type">
+</member><member name="F:Helpdesk_Application.callback.SourceCategoriII">
 	<summary>
-div_master_Transaction_Type control.
+SourceCategoriII control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_calltypeone">
+</member><member name="F:Helpdesk_Application.callback.SourceCategoriIII">
 	<summary>
-div_master_calltypeone control.
+SourceCategoriIII control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_calltypetwo">
+</member><member name="F:Helpdesk_Application.callback.DSHistoryAgent">
 	<summary>
-div_master_calltypetwo control.
+DSHistoryAgent control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_calltypetre">
+</member><member name="F:Helpdesk_Application.callback.DSCustHistory">
 	<summary>
-div_master_calltypetre control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_sourcetype">
-	<summary>
-div_master_sourcetype control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_grouptype">
-	<summary>
-div_master_grouptype control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_status">
-	<summary>
-div_master_status control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_karyawan">
-	<summary>
-div_master_karyawan control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_email_alert">
-	<summary>
-div_master_email_alert control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_master_email_address">
-	<summary>
-div_master_email_address control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_customer">
-	<summary>
-div_menu_customer control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_todolist">
-	<summary>
-div_menu_todolist control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_channel">
-	<summary>
-div_menu_channel control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_channel_twitter">
-	<summary>
-div_channel_twitter control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_twitter_history">
-	<summary>
-div_twitter_history control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_twitter_keyword_setting">
-	<summary>
-div_twitter_keyword_setting control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_channel_facebook">
-	<summary>
-div_channel_facebook control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_facebook_history">
-	<summary>
-div_facebook_history control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_facebook_keyword_setting">
-	<summary>
-div_facebook_keyword_setting control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_channel_email">
-	<summary>
-div_channel_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_channel_sms">
-	<summary>
-div_channel_sms control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_channel_fax">
-	<summary>
-div_channel_fax control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_channel_chat">
-	<summary>
-div_channel_chat control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_ticket">
-	<summary>
-div_menu_ticket control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_ticket_create">
-	<summary>
-div_ticket_create control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_ticket_todolist">
-	<summary>
-div_ticket_todolist control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_ticket_assign">
-	<summary>
-div_ticket_assign control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_ticket_history">
-	<summary>
-div_ticket_history control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_Management_user">
-	<summary>
-div_menu_Management_user control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_user_add">
-	<summary>
-div_user_add control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_user_setting">
-	<summary>
-div_user_setting control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_report">
-	<summary>
-div_menu_report control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_report_satu">
-	<summary>
-div_report_satu control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_report_dua">
-	<summary>
-div_report_dua control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_grafik">
-	<summary>
-div_menu_grafik control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.div_menu_knowledge">
-	<summary>
-div_menu_knowledge control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.Ticket.MainContent">
-	<summary>
-MainContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.RegisterExternalLogin.userNameForm">
-	<summary>
-userNameForm control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.RegisterExternalLogin.userName">
-	<summary>
-userName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_email.btn_compose">
-	<summary>
-btn_compose control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_email.div_table">
-	<summary>
-div_table control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_email.gv_inbox_email">
-	<summary>
-gv_inbox_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_email.sql_inbox_email">
-	<summary>
-sql_inbox_email control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_email.div_compose">
-	<summary>
-div_compose control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_email.txt_to">
-	<summary>
-txt_to control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_email.ASPxHtmlEditor1">
-	<summary>
-ASPxHtmlEditor1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_facebook.gv_inbox_facebook">
-	<summary>
-gv_inbox_facebook control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox_facebook.sql_inbox_facebook">
-	<summary>
-sql_inbox_facebook control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.zz.Button1">
-	<summary>
-Button1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.zz.TabName">
-	<summary>
-TabName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.div_all">
-	<summary>
-div_all control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.idv_ticket">
-	<summary>
-idv_ticket control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.modal_ticket_open">
-	<summary>
-modal_ticket_open control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.lbl_open">
-	<summary>
-lbl_open control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.Label1">
-	<summary>
-Label1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.modal_ticket_pending">
-	<summary>
-modal_ticket_pending control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.lbl_pending">
-	<summary>
-lbl_pending control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.modal_ticket_progress">
-	<summary>
-modal_ticket_progress control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.lbl_on_progress">
-	<summary>
-lbl_on_progress control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.Label3">
-	<summary>
-Label3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.modal_ticket_close">
-	<summary>
-modal_ticket_close control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.lbl_close">
-	<summary>
-lbl_close control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.div_inbox">
-	<summary>
-div_inbox control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.ltr_inbox">
-	<summary>
-ltr_inbox control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.div_todolist">
-	<summary>
-div_todolist control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.inbox.ltr_todolist">
-	<summary>
-ltr_todolist control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.lbl_tgl">
-	<summary>
-lbl_tgl control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label1">
-	<summary>
-Label1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.btn_test">
-	<summary>
-btn_test control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.lbl1">
-	<summary>
-lbl1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label3">
-	<summary>
-Label3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label2">
-	<summary>
-Label2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label4">
-	<summary>
-Label4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label5">
-	<summary>
-Label5 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label6">
-	<summary>
-Label6 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label7">
-	<summary>
-Label7 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label8">
-	<summary>
-Label8 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label9">
-	<summary>
-Label9 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label10">
-	<summary>
-Label10 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label11">
-	<summary>
-Label11 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label12">
-	<summary>
-Label12 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label13">
-	<summary>
-Label13 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label14">
-	<summary>
-Label14 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label15">
-	<summary>
-Label15 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label16">
-	<summary>
-Label16 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label17">
-	<summary>
-Label17 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label18">
-	<summary>
-Label18 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label19">
-	<summary>
-Label19 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label20">
-	<summary>
-Label20 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label21">
-	<summary>
-Label21 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label22">
-	<summary>
-Label22 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label23">
-	<summary>
-Label23 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label24">
-	<summary>
-Label24 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label25">
-	<summary>
-Label25 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label26">
-	<summary>
-Label26 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label27">
-	<summary>
-Label27 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label28">
-	<summary>
-Label28 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label29">
-	<summary>
-Label29 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.app.Label30">
-	<summary>
-Label30 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.SiteMaster.FeaturedContent">
-	<summary>
-FeaturedContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.SiteMaster.MainContent">
-	<summary>
-MainContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.SiteMaster.lbl_open">
-	<summary>
-lbl_open control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.SiteMaster.lbl_close">
-	<summary>
-lbl_close control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.SiteMaster.lbl_pending">
-	<summary>
-lbl_pending control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.SiteMaster.lbl_on_progress">
-	<summary>
-lbl_on_progress control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.calltype_tre.div_calltype_tre">
-	<summary>
-div_calltype_tre control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.calltype_tre.ASPxGridView1">
-	<summary>
-ASPxGridView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.calltype_tre.DsCategory">
-	<summary>
-DsCategory control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.calltype_tre.dsmCategory">
-	<summary>
-dsmCategory control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.calltype_tre.dsmSubCategoryLv1">
-	<summary>
-dsmSubCategoryLv1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:Helpdesk_Application.calltype_tre.dsmSubCategoryLv2">
-	<summary>
-dsmSubCategoryLv2 control.
+DSCustHistory control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -3943,9 +2631,321 @@ ltr_ticket_progress control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.OpenAuthProviders.providerDetails">
+</member><member name="F:Helpdesk_Application.inbox_facebook.gv_inbox_facebook">
 	<summary>
-providerDetails control.
+gv_inbox_facebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox_facebook.sql_inbox_facebook">
+	<summary>
+sql_inbox_facebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.lbl_tgl">
+	<summary>
+lbl_tgl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.lbl1">
+	<summary>
+lbl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label12">
+	<summary>
+Label12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label14">
+	<summary>
+Label14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label15">
+	<summary>
+Label15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label16">
+	<summary>
+Label16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label17">
+	<summary>
+Label17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label18">
+	<summary>
+Label18 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label19">
+	<summary>
+Label19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label20">
+	<summary>
+Label20 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label21">
+	<summary>
+Label21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label22">
+	<summary>
+Label22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label23">
+	<summary>
+Label23 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label24">
+	<summary>
+Label24 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label25">
+	<summary>
+Label25 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label26">
+	<summary>
+Label26 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label27">
+	<summary>
+Label27 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label28">
+	<summary>
+Label28 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label29">
+	<summary>
+Label29 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.landing.Label30">
+	<summary>
+Label30 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox_todolist.lbl_jumlah_todolist">
+	<summary>
+lbl_jumlah_todolist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox_todolist.div_table">
+	<summary>
+div_table control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox_todolist.ltr_email">
+	<summary>
+ltr_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox_todolist.div_compose">
+	<summary>
+div_compose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox_todolist.txt_to">
+	<summary>
+txt_to control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox_todolist.ASPxHtmlEditor1">
+	<summary>
+ASPxHtmlEditor1 control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -3975,57 +2975,1057 @@ sql_group_type control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.assign.div_assign">
+</member><member name="F:Helpdesk_Application.sourcetype.div_sourcetype">
 	<summary>
-div_assign control.
+div_sourcetype control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.assign.gv_assign">
+</member><member name="F:Helpdesk_Application.sourcetype.gv_source_type">
 	<summary>
-gv_assign control.
+gv_source_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.assign.sql_assign">
+</member><member name="F:Helpdesk_Application.sourcetype.sql_source_type">
 	<summary>
-sql_assign control.
+sql_source_type control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_one.div_calltype_one">
+</member><member name="F:Helpdesk_Application.app.lbl_tgl">
 	<summary>
-div_calltype_one control.
+lbl_tgl control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_one.gv_transaction_type">
+</member><member name="F:Helpdesk_Application.app.Label1">
 	<summary>
-gv_transaction_type control.
+Label1 control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_one.sql_calltype_one">
+</member><member name="F:Helpdesk_Application.app.btn_test">
 	<summary>
-sql_calltype_one control.
+btn_test control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:Helpdesk_Application.calltype_one.sql_transaction_type">
+</member><member name="F:Helpdesk_Application.app.lbl1">
+	<summary>
+lbl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label12">
+	<summary>
+Label12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label14">
+	<summary>
+Label14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label15">
+	<summary>
+Label15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label16">
+	<summary>
+Label16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label17">
+	<summary>
+Label17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label18">
+	<summary>
+Label18 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label19">
+	<summary>
+Label19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label20">
+	<summary>
+Label20 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label21">
+	<summary>
+Label21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label22">
+	<summary>
+Label22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label23">
+	<summary>
+Label23 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label24">
+	<summary>
+Label24 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label25">
+	<summary>
+Label25 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label26">
+	<summary>
+Label26 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label27">
+	<summary>
+Label27 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label28">
+	<summary>
+Label28 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label29">
+	<summary>
+Label29 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.app.Label30">
+	<summary>
+Label30 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.sql_app">
+	<summary>
+sql_app control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.sql_3">
+	<summary>
+sql_3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.div_customer">
+	<summary>
+div_customer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.txt_company_name">
+	<summary>
+txt_company_name control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.txt_email">
+	<summary>
+txt_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.txt_phone">
+	<summary>
+txt_phone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.txt_address">
+	<summary>
+txt_address control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.hr_satu">
+	<summary>
+hr_satu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.div_setting">
+	<summary>
+div_setting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_ticket">
+	<summary>
+chk_ticket control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_email">
+	<summary>
+chk_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_twitter">
+	<summary>
+chk_twitter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_facebook">
+	<summary>
+chk_facebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_fax">
+	<summary>
+chk_fax control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_chat">
+	<summary>
+chk_chat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_sms">
+	<summary>
+chk_sms control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_telegram">
+	<summary>
+chk_telegram control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.chk_instagram">
+	<summary>
+chk_instagram control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.hr_dua">
+	<summary>
+hr_dua control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.div_license">
+	<summary>
+div_license control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.txt_license">
+	<summary>
+txt_license control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.cmb_status">
+	<summary>
+cmb_status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.hr_tiga">
+	<summary>
+hr_tiga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.div_generate">
+	<summary>
+div_generate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.gv_app">
+	<summary>
+gv_app control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.sql_user">
+	<summary>
+sql_user control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.btn_simpan">
+	<summary>
+btn_simpan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.btn_back">
+	<summary>
+btn_back control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.btn_generate">
+	<summary>
+btn_generate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.user.btn_finis">
+	<summary>
+btn_finis control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.div_all">
+	<summary>
+div_all control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.idv_ticket">
+	<summary>
+idv_ticket control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.modal_ticket_open">
+	<summary>
+modal_ticket_open control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.lbl_open">
+	<summary>
+lbl_open control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.modal_ticket_pending">
+	<summary>
+modal_ticket_pending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.lbl_pending">
+	<summary>
+lbl_pending control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.modal_ticket_progress">
+	<summary>
+modal_ticket_progress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.lbl_on_progress">
+	<summary>
+lbl_on_progress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.modal_ticket_close">
+	<summary>
+modal_ticket_close control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.lbl_close">
+	<summary>
+lbl_close control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.div_inbox">
+	<summary>
+div_inbox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.ltr_inbox">
+	<summary>
+ltr_inbox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.div_todolist">
+	<summary>
+div_todolist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.inbox.ltr_todolist">
+	<summary>
+ltr_todolist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.lbl_jumlah_facebook">
+	<summary>
+lbl_jumlah_facebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.ltr_email">
+	<summary>
+ltr_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.ww">
+	<summary>
+ww control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.Btn_upload">
+	<summary>
+Btn_upload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.lblcc">
+	<summary>
+lblcc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.txt_account_email">
+	<summary>
+txt_account_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.xx.TextBox1">
+	<summary>
+TextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.login1.txt_username">
+	<summary>
+txt_username control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.login1.txt_password">
+	<summary>
+txt_password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.login1.btn_login">
+	<summary>
+btn_login control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Login.OpenAuthLogin">
+	<summary>
+OpenAuthLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Manage.successMessage">
+	<summary>
+successMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Manage.setPassword">
+	<summary>
+setPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Manage.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Manage.confirmPassword">
+	<summary>
+confirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.Manage.changePassword">
+	<summary>
+changePassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.RegisterExternalLogin.userNameForm">
+	<summary>
+userNameForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.RegisterExternalLogin.userName">
+	<summary>
+userName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.lbl_nama">
+	<summary>
+lbl_nama control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.lbl_email">
+	<summary>
+lbl_email control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.lbl_tlp">
+	<summary>
+lbl_tlp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_source_type">
+	<summary>
+cmb_source_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_source_type">
+	<summary>
+sql_source_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_group_type">
+	<summary>
+cmb_group_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_group_type">
+	<summary>
+sql_group_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_transaction_type">
+	<summary>
+cmb_transaction_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_transaction_type">
 	<summary>
 sql_transaction_type control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_brand">
+	<summary>
+cmb_brand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_brand">
+	<summary>
+sql_brand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_product">
+	<summary>
+cmb_product control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_product">
+	<summary>
+sql_product control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_problem">
+	<summary>
+cmb_problem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_problem">
+	<summary>
+sql_problem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_priority">
+	<summary>
+cmb_priority control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_priority">
+	<summary>
+sql_priority control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_severity">
+	<summary>
+cmb_severity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_severity">
+	<summary>
+sql_severity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.cmb_status">
+	<summary>
+cmb_status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.sql_status">
+	<summary>
+sql_status control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.lbl_agent">
+	<summary>
+lbl_agent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.lbl_nik_agent">
+	<summary>
+lbl_nik_agent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.lbl_date_create">
+	<summary>
+lbl_date_create control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.div_interaction">
+	<summary>
+div_interaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.ltr_interaction">
+	<summary>
+ltr_interaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.txt_description">
+	<summary>
+txt_description control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Helpdesk_Application.main.lbl_sla">
+	<summary>
+lbl_sla control.
 </summary>
 	<remarks>
 Auto-generated field.

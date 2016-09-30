@@ -263,6 +263,7 @@
     <Content Include="HTML\customer.aspx" />
     <Content Include="HTML\email_address.aspx" />
     <Content Include="HTML\email_alert.aspx" />
+    <Content Include="HTML\fa.html" />
     <Content Include="HTML\facebook_keyword.aspx" />
     <Content Include="HTML\grouptype.aspx" />
     <Content Include="HTML\history_ticket.aspx" />
