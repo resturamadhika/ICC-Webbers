@@ -630,6 +630,7 @@
     <Content Include="HTML\table.html" />
     <Content Include="HTML\timeline.html" />
     <Content Include="HTML\todolist.aspx" />
+    <Content Include="HTML\todolist_sosmed.aspx" />
     <Content Include="HTML\todolist_ticket.aspx" />
     <Content Include="HTML\Transaction_Type.aspx" />
     <Content Include="HTML\twitter_keyword.aspx" />
@@ -842,6 +843,13 @@
     <Compile Include="HTML\setting_user.aspx.vb">
       <DependentUpon>setting_user.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="HTML\todolist_sosmed.aspx.designer.vb">
+      <DependentUpon>todolist_sosmed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HTML\todolist_sosmed.aspx.vb">
+      <DependentUpon>todolist_sosmed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="HTML\user.aspx.designer.vb">
       <DependentUpon>user.aspx</DependentUpon>
