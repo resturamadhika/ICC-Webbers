@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Helpdesk_Application", "Helpdesk_Application\Helpdesk_Application.vbproj", "{FB971156-DD8F-4314-BDF0-E5EB47C48444}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{02A3A56B-C6B1-41F0-B5A0-6DD63089A933}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB971156-DD8F-4314-BDF0-E5EB47C48444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB971156-DD8F-4314-BDF0-E5EB47C48444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB971156-DD8F-4314-BDF0-E5EB47C48444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB971156-DD8F-4314-BDF0-E5EB47C48444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
