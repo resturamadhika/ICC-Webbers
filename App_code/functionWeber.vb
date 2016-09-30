@@ -301,6 +301,7 @@ Public Class functionWeber
         '    End If
 
         'End If
+        Return True
     End Function
 
 End Class
